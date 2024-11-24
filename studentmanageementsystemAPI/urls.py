@@ -16,10 +16,10 @@ router.register(r'attendance', AttendanceViewSet)
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('api/auth/', include('djoser.urls')),           # User management
-    path('api/auth/', include('djoser.urls.authtoken')), # Token authentication
-    path('api/schema/', SpectacularAPIView.as_view(), name='schema'),  # Schema
-    path('api/docs/', SpectacularSwaggerView.as_view(url_name='schema'), name='swagger-ui'),  # Swagger UI
+    path('api/auth/', include('djoser.urls')),
+    path('api/auth/', include('djoser.urls.authtoken')),
+    path('api/schema/', SpectacularAPIView.as_view(), name='schema'),
+    path('api/docs/', SpectacularSwaggerView.as_view(url_name='schema'), name='swagger-ui'),
     path('api/', include(router.urls)),
 ]
 

@@ -6,6 +6,17 @@ from .models import Course, Enrollment
 from users.serializers import UserSerializer
 
 class CourseSerializer(serializers.ModelSerializer):
+    """
+    Serializer for the Course model.
+
+    Fields:
+    - `id`: Unique identifier for the course.
+    - `name`: The name of the course.
+    - `description`: A detailed description of the course.
+    - `instructor`: The teacher responsible for the course.
+    - `instructor_id`: The ID of teacher responsible for the course.
+
+    """
     instructor_id = serializers.IntegerField(write_only=True)
     instructor = UserSerializer(read_only=True)
 

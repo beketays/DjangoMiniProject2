@@ -13,6 +13,25 @@ from rest_framework.response import Response
 logger = logging.getLogger("courses")
 
 class CourseViewSet(viewsets.ModelViewSet):
+    """
+    retrieve:
+    Return the given course.
+
+    list:
+    Return a list of all courses.
+
+    create:
+    Create a new course instance. Only teachers can create courses.
+
+    update:
+    Update an existing course. Only the assigned teacher can update the course.
+
+    partial_update:
+    Partially update an existing course. Only the assigned teacher can update the course.
+
+    destroy:
+    Delete an existing course. Only the assigned teacher can delete the course.
+    """
     queryset = Course.objects.all()
     serializer_class = CourseSerializer
     filter_backends = [DjangoFilterBackend, filters.SearchFilter, filters.OrderingFilter]
