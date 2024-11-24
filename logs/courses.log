@@ -1,1 +1,164 @@
 INFO 2024-11-24 15:05:56,874 views User student enrolled to course 'string1'.
+INFO 2024-11-24 16:25:39,214 views Courses list cache miss for user user@example.com - data cached
+INFO 2024-11-24 17:05:54,178 views User admin@kbtu.kz deleted course None.
+INFO 2024-11-24 17:06:51,494 views User admin@kbtu.kz deleted course None.
+INFO 2024-11-24 17:06:51,930 views User admin@kbtu.kz updated course 1.
+INFO 2024-11-24 17:06:52,382 views Courses list cache miss for user student@kbtu.kz - data cached
+INFO 2024-11-24 17:06:52,821 views Courses list cache miss for user admin@kbtu.kz - data cached
+INFO 2024-11-24 17:06:52,821 views Courses list cache hit for user admin@kbtu.kz
+INFO 2024-11-24 17:06:52,823 views Courses list cache miss for user admin@kbtu.kz - data cached
+INFO 2024-11-24 17:10:16,492 views User admin@kbtu.kz deleted course None.
+INFO 2024-11-24 17:10:17,088 views User admin@kbtu.kz updated course 1.
+INFO 2024-11-24 17:10:17,735 views Courses list cache miss for user student@kbtu.kz - data cached
+INFO 2024-11-24 17:10:18,364 views Courses list cache miss for user admin@kbtu.kz - data cached
+INFO 2024-11-24 17:10:18,365 views Courses list cache hit for user admin@kbtu.kz
+INFO 2024-11-24 17:10:18,366 views Courses list cache miss for user admin@kbtu.kz - data cached
+INFO 2024-11-24 17:11:27,502 views Courses list cache miss for user student@kbtu.kz - data cached
+INFO 2024-11-24 17:11:28,115 views Courses list cache miss for user studen1t@kbtu.kz - data cached
+INFO 2024-11-24 17:11:28,115 views Courses list cache hit for user studen1t@kbtu.kz
+INFO 2024-11-24 17:11:28,117 views Courses list cache miss for user studen1t@kbtu.kz - data cached
+INFO 2024-11-24 17:11:29,929 views User studen1t@kbtu.kz deleted course None.
+INFO 2024-11-24 17:11:30,529 views User studen1t@kbtu.kz updated course 1.
+INFO 2024-11-24 17:12:57,078 views Courses list cache miss for user student@kbtu.kz - data cached
+INFO 2024-11-24 17:12:57,707 views Courses list cache miss for user studen1t@kbtu.kz - data cached
+INFO 2024-11-24 17:12:57,708 views Courses list cache hit for user studen1t@kbtu.kz
+INFO 2024-11-24 17:12:57,710 views Courses list cache miss for user studen1t@kbtu.kz - data cached
+INFO 2024-11-24 17:13:00,103 views User studen1t@kbtu.kz deleted course None.
+INFO 2024-11-24 17:13:00,690 views User studen1t@kbtu.kz updated course 1.
+INFO 2024-11-24 17:15:47,716 views Courses list cache miss for user student@kbtu.kz - data cached
+INFO 2024-11-24 17:15:48,308 views Courses list cache miss for user studen1t@kbtu.kz - data cached
+INFO 2024-11-24 17:15:48,308 views Courses list cache hit for user studen1t@kbtu.kz
+INFO 2024-11-24 17:15:48,310 views Courses list cache miss for user studen1t@kbtu.kz - data cached
+INFO 2024-11-24 17:15:50,749 views User studen1t@kbtu.kz deleted course None.
+INFO 2024-11-24 17:15:51,340 views User studen1t@kbtu.kz updated course 1.
+INFO 2024-11-24 17:16:13,774 views Courses list cache miss for user admin@kbtu.kz - data cached
+INFO 2024-11-24 17:16:14,375 views Courses list cache miss for user studen1t@kbtu.kz - data cached
+INFO 2024-11-24 17:16:14,376 views Courses list cache hit for user studen1t@kbtu.kz
+INFO 2024-11-24 17:16:14,377 views Courses list cache miss for user studen1t@kbtu.kz - data cached
+INFO 2024-11-24 17:16:16,810 views User studen1t@kbtu.kz deleted course None.
+INFO 2024-11-24 17:16:17,420 views User studen1t@kbtu.kz updated course 1.
+INFO 2024-11-24 17:19:49,306 views Courses list cache miss for user student@kbtu.kz - data cached
+INFO 2024-11-24 17:21:38,543 views Courses list cache hit for user student@kbtu.kz
+INFO 2024-11-24 17:21:41,413 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:21:41,426 views Courses list cache hit for user student1t@kbtu.kz
+INFO 2024-11-24 17:21:41,447 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:21:46,181 views User student1t@kbtu.kz deleted course None.
+INFO 2024-11-24 17:21:46,843 views User student1t@kbtu.kz updated course 1.
+INFO 2024-11-24 17:21:56,657 views Courses list cache miss for user student@kbtu.kz - data cached
+INFO 2024-11-24 17:21:57,367 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:21:57,368 views Courses list cache hit for user student1t@kbtu.kz
+INFO 2024-11-24 17:21:57,382 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:21:59,731 views User student1t@kbtu.kz deleted course None.
+INFO 2024-11-24 17:22:00,307 views User student1t@kbtu.kz updated course 1.
+INFO 2024-11-24 17:22:24,707 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:22:24,708 views Courses list cache hit for user student1t@kbtu.kz
+INFO 2024-11-24 17:22:24,709 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:22:27,059 views User student1t@kbtu.kz deleted course None.
+INFO 2024-11-24 17:22:27,652 views User student1t@kbtu.kz updated course 1.
+INFO 2024-11-24 17:24:35,333 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:24:35,334 views Courses list cache hit for user student1t@kbtu.kz
+INFO 2024-11-24 17:24:35,336 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:24:37,148 views User student1t@kbtu.kz updated course 1.
+INFO 2024-11-24 17:25:40,896 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:25:40,897 views Courses list cache hit for user student1t@kbtu.kz
+INFO 2024-11-24 17:25:40,899 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:25:42,697 views User student1t@kbtu.kz updated course 1.
+INFO 2024-11-24 17:25:49,405 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:25:49,406 views Courses list cache hit for user student1t@kbtu.kz
+INFO 2024-11-24 17:25:49,407 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:25:51,192 views User student1t@kbtu.kz updated course 1.
+INFO 2024-11-24 17:29:12,153 views Courses list cache miss for user student@kbtu.kz - data cached
+INFO 2024-11-24 17:29:12,735 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:29:12,735 views Courses list cache hit for user student1t@kbtu.kz
+INFO 2024-11-24 17:29:12,737 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:29:15,111 views User student1t@kbtu.kz deleted course None.
+INFO 2024-11-24 17:29:15,695 views User student1t@kbtu.kz updated course 1.
+INFO 2024-11-24 17:30:46,215 views Courses list cache miss for user student@kbtu.kz - data cached
+INFO 2024-11-24 17:30:46,809 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:30:46,810 views Courses list cache hit for user student1t@kbtu.kz
+INFO 2024-11-24 17:30:46,812 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:30:49,184 views User student1t@kbtu.kz deleted course None.
+INFO 2024-11-24 17:30:49,764 views User student1t@kbtu.kz updated course 1.
+INFO 2024-11-24 17:31:06,680 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:31:06,682 views Courses list cache hit for user student1t@kbtu.kz
+INFO 2024-11-24 17:31:06,683 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:31:08,470 views User student1t@kbtu.kz updated course 1.
+INFO 2024-11-24 17:32:54,320 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:32:54,321 views Courses list cache hit for user student1t@kbtu.kz
+INFO 2024-11-24 17:32:54,324 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:32:56,097 views User student1t@kbtu.kz updated course 1.
+INFO 2024-11-24 17:33:16,930 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:33:16,931 views Courses list cache hit for user student1t@kbtu.kz
+INFO 2024-11-24 17:33:16,933 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:33:18,752 views User student1t@kbtu.kz updated course 1.
+INFO 2024-11-24 17:34:01,315 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:34:01,316 views Courses list cache hit for user student1t@kbtu.kz
+INFO 2024-11-24 17:34:01,317 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:34:03,246 views User student1t@kbtu.kz updated course 1.
+INFO 2024-11-24 17:34:18,778 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:34:18,778 views Courses list cache hit for user student1t@kbtu.kz
+INFO 2024-11-24 17:34:18,780 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:34:20,721 views User student1t@kbtu.kz updated course 1.
+INFO 2024-11-24 17:35:04,542 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:35:04,543 views Courses list cache hit for user student1t@kbtu.kz
+INFO 2024-11-24 17:35:04,545 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:35:06,489 views User student1t@kbtu.kz updated course 1.
+INFO 2024-11-24 17:46:34,728 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:46:34,729 views Courses list cache hit for user student1t@kbtu.kz
+INFO 2024-11-24 17:46:34,731 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:46:36,515 views User student1t@kbtu.kz updated course 1.
+INFO 2024-11-24 17:46:52,590 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:46:52,591 views Courses list cache hit for user student1t@kbtu.kz
+INFO 2024-11-24 17:46:52,593 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:46:54,546 views User student1t@kbtu.kz updated course 1.
+INFO 2024-11-24 17:48:30,474 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:48:30,475 views Courses list cache hit for user student1t@kbtu.kz
+INFO 2024-11-24 17:48:30,476 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:48:32,428 views User student1t@kbtu.kz updated course 1.
+INFO 2024-11-24 17:50:30,058 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:50:30,059 views Courses list cache hit for user student1t@kbtu.kz
+INFO 2024-11-24 17:50:30,060 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:50:32,115 views User student1t@kbtu.kz updated course 1.
+INFO 2024-11-24 17:51:10,607 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:51:10,608 views Courses list cache hit for user student1t@kbtu.kz
+INFO 2024-11-24 17:51:10,609 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:51:12,105 views User student1t@kbtu.kz created course 1.
+INFO 2024-11-24 17:51:12,698 views User student1t@kbtu.kz updated course 1.
+INFO 2024-11-24 17:52:07,585 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:52:07,586 views Courses list cache hit for user student1t@kbtu.kz
+INFO 2024-11-24 17:52:07,588 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:52:08,912 views User student1t@kbtu.kz created course 1.
+INFO 2024-11-24 17:52:09,526 views User student1t@kbtu.kz updated course 1.
+INFO 2024-11-24 17:55:07,221 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:55:07,222 views Courses list cache hit for user student1t@kbtu.kz
+INFO 2024-11-24 17:55:07,223 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:55:08,552 views User student1t@kbtu.kz created course 1.
+INFO 2024-11-24 17:55:09,131 views User student1t@kbtu.kz updated course 1.
+INFO 2024-11-24 17:56:12,482 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:56:12,483 views Courses list cache hit for user student1t@kbtu.kz
+INFO 2024-11-24 17:56:12,485 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:56:13,894 views User student1t@kbtu.kz created course 1.
+INFO 2024-11-24 17:56:14,516 views User student1t@kbtu.kz updated course 1.
+INFO 2024-11-24 17:56:48,620 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:56:48,622 views Courses list cache hit for user student1t@kbtu.kz
+INFO 2024-11-24 17:56:48,635 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:56:50,053 views User student1t@kbtu.kz created course 1.
+INFO 2024-11-24 17:56:50,675 views User student1t@kbtu.kz updated course 1.
+INFO 2024-11-24 17:58:07,500 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:58:07,501 views Courses list cache hit for user student1t@kbtu.kz
+INFO 2024-11-24 17:58:07,502 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:58:08,858 views User student1t@kbtu.kz created course 1.
+INFO 2024-11-24 17:58:09,464 views User student1t@kbtu.kz updated course 1.
+INFO 2024-11-24 17:58:34,853 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:58:34,854 views Courses list cache hit for user student1t@kbtu.kz
+INFO 2024-11-24 17:58:34,855 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:58:36,173 views User student1t@kbtu.kz updated course 1.
+INFO 2024-11-24 17:59:22,488 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:59:22,489 views Courses list cache hit for user student1t@kbtu.kz
+INFO 2024-11-24 17:59:22,491 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 17:59:23,827 views User student1t@kbtu.kz created course 1.
+INFO 2024-11-24 17:59:24,402 views User student1t@kbtu.kz updated course 1.
+INFO 2024-11-24 18:01:07,510 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 18:01:07,511 views Courses list cache hit for user student1t@kbtu.kz
+INFO 2024-11-24 18:01:07,512 views Courses list cache miss for user student1t@kbtu.kz - data cached
+INFO 2024-11-24 18:01:08,830 views User student1t@kbtu.kz updated course 1.

@@ -4,3 +4,1012 @@ INFO 2024-11-24 14:56:33,955 signals User 0WfvT4Czua6RcyvR0XdEQBRtAgsDpF2z65u2Xa
 INFO 2024-11-24 14:58:11,163 signals User teacher1 logged in.
 INFO 2024-11-24 15:00:36,567 signals User admin logged in.
 INFO 2024-11-24 15:01:19,355 signals User student logged in.
+INFO 2024-11-24 15:40:06,189 signals User student_user registered.
+INFO 2024-11-24 15:40:06,350 signals User student_user registered.
+INFO 2024-11-24 15:40:57,685 signals User student_user registered.
+INFO 2024-11-24 15:40:57,836 signals User student_user registered.
+INFO 2024-11-24 15:42:11,627 signals User student_user registered.
+INFO 2024-11-24 15:42:11,780 signals User student_user registered.
+INFO 2024-11-24 15:42:44,433 signals User student_user registered.
+INFO 2024-11-24 15:42:44,581 signals User student_user registered.
+INFO 2024-11-24 15:43:19,633 signals User student_user registered.
+INFO 2024-11-24 15:43:19,793 signals User student_user registered.
+INFO 2024-11-24 15:43:54,599 signals User student_user registered.
+INFO 2024-11-24 15:43:54,746 signals User student_user registered.
+INFO 2024-11-24 15:45:01,563 signals User student_user registered.
+INFO 2024-11-24 15:45:01,711 signals User student_user registered.
+INFO 2024-11-24 15:47:10,052 signals User student_user registered.
+INFO 2024-11-24 15:47:10,202 signals User student_user registered.
+INFO 2024-11-24 15:47:34,687 signals User student_user registered.
+INFO 2024-11-24 15:47:34,843 signals User student_user registered.
+INFO 2024-11-24 15:48:19,187 signals User admin registered.
+INFO 2024-11-24 15:48:19,334 signals User student_user registered.
+INFO 2024-11-24 15:48:19,481 signals User student_user registered.
+INFO 2024-11-24 15:48:19,634 signals User student_user registered.
+INFO 2024-11-24 15:48:48,808 signals User admin registered.
+INFO 2024-11-24 15:48:48,955 signals User student_user registered.
+INFO 2024-11-24 15:48:49,106 signals User student_user registered.
+INFO 2024-11-24 15:48:49,254 signals User student_user registered.
+INFO 2024-11-24 15:50:00,882 signals User admin registered.
+INFO 2024-11-24 15:50:01,036 signals User student_user registered.
+INFO 2024-11-24 15:50:01,184 signals User student_user registered.
+INFO 2024-11-24 15:50:01,331 signals User student_user registered.
+INFO 2024-11-24 15:50:51,753 signals User admin registered.
+INFO 2024-11-24 15:50:51,905 signals User student_user registered.
+INFO 2024-11-24 15:50:52,059 signals User student_user registered.
+INFO 2024-11-24 15:50:52,208 signals User student_user registered.
+INFO 2024-11-24 15:55:14,047 signals User student_user registered.
+INFO 2024-11-24 15:55:14,197 signals User student_user registered.
+INFO 2024-11-24 15:57:27,095 signals User student_user registered.
+INFO 2024-11-24 15:57:27,243 signals User student_user registered.
+INFO 2024-11-24 15:58:12,664 signals User student_user registered.
+INFO 2024-11-24 15:58:12,811 signals User student_user registered.
+INFO 2024-11-24 15:59:06,960 signals User student_user registered.
+INFO 2024-11-24 15:59:07,107 signals User student_user registered.
+INFO 2024-11-24 15:59:32,292 signals User admin registered.
+INFO 2024-11-24 15:59:32,441 signals User student_user registered.
+INFO 2024-11-24 15:59:32,591 signals User student_user registered.
+INFO 2024-11-24 15:59:32,740 signals User student_user registered.
+INFO 2024-11-24 16:01:47,627 signals User admin registered.
+INFO 2024-11-24 16:01:47,777 signals User student_user registered.
+INFO 2024-11-24 16:01:47,933 signals User student_user registered.
+INFO 2024-11-24 16:01:48,083 signals User student_user registered.
+INFO 2024-11-24 16:06:37,396 signals User admin registered.
+INFO 2024-11-24 16:06:37,547 signals User student_user registered.
+INFO 2024-11-24 16:06:37,698 signals User student_user registered.
+INFO 2024-11-24 16:06:37,847 signals User student_user registered.
+INFO 2024-11-24 16:06:46,306 signals User admin registered.
+INFO 2024-11-24 16:06:46,457 signals User student_user registered.
+INFO 2024-11-24 16:06:46,609 signals User student_user registered.
+INFO 2024-11-24 16:06:46,753 signals User student_user registered.
+INFO 2024-11-24 16:07:34,631 signals User admin registered.
+INFO 2024-11-24 16:07:34,778 signals User student_user registered.
+INFO 2024-11-24 16:07:34,928 signals User student_user registered.
+INFO 2024-11-24 16:07:35,072 signals User student_user registered.
+INFO 2024-11-24 16:07:45,439 signals User admin registered.
+INFO 2024-11-24 16:07:45,586 signals User student_user registered.
+INFO 2024-11-24 16:07:45,740 signals User student_user registered.
+INFO 2024-11-24 16:07:45,887 signals User student_user registered.
+INFO 2024-11-24 16:10:17,972 signals User admin registered.
+INFO 2024-11-24 16:10:18,130 signals User student_user registered.
+INFO 2024-11-24 16:10:18,289 signals User student_user registered.
+INFO 2024-11-24 16:10:18,436 signals User student_user registered.
+INFO 2024-11-24 16:10:36,800 signals User admin registered.
+INFO 2024-11-24 16:10:36,951 signals User student_user registered.
+INFO 2024-11-24 16:10:37,116 signals User student_user registered.
+INFO 2024-11-24 16:10:37,268 signals User student_user registered.
+INFO 2024-11-24 16:11:56,073 signals User admin registered.
+INFO 2024-11-24 16:11:56,218 signals User student_user registered.
+INFO 2024-11-24 16:11:56,372 signals User admin logged in.
+INFO 2024-11-24 16:11:56,521 signals User student_user registered.
+INFO 2024-11-24 16:11:56,672 signals User student_user registered.
+INFO 2024-11-24 16:14:05,207 signals User admin registered.
+INFO 2024-11-24 16:14:05,350 signals User student_user registered.
+INFO 2024-11-24 16:14:05,506 signals User student_user registered.
+INFO 2024-11-24 16:14:05,655 signals User student_user registered.
+INFO 2024-11-24 16:14:15,194 signals User admin registered.
+INFO 2024-11-24 16:14:15,344 signals User student_user registered.
+INFO 2024-11-24 16:14:15,498 signals User student_user registered.
+INFO 2024-11-24 16:14:15,648 signals User student_user registered.
+INFO 2024-11-24 16:14:25,245 signals User admin registered.
+INFO 2024-11-24 16:14:25,403 signals User student_user registered.
+INFO 2024-11-24 16:14:25,552 signals User admin logged in.
+INFO 2024-11-24 16:14:25,702 signals User student_user registered.
+INFO 2024-11-24 16:14:25,855 signals User student_user registered.
+INFO 2024-11-24 16:14:45,329 signals User admin registered.
+INFO 2024-11-24 16:14:45,481 signals User student_user registered.
+INFO 2024-11-24 16:14:45,639 signals User admin logged in.
+INFO 2024-11-24 16:14:45,789 signals User student_user registered.
+INFO 2024-11-24 16:14:45,936 signals User student_user registered.
+INFO 2024-11-24 16:15:05,836 signals User admin registered.
+INFO 2024-11-24 16:15:05,992 signals User student_user registered.
+INFO 2024-11-24 16:15:06,147 signals User admin logged in.
+INFO 2024-11-24 16:15:06,301 signals User student_user registered.
+INFO 2024-11-24 16:15:06,446 signals User student_user registered.
+INFO 2024-11-24 16:16:12,479 signals User admin registered.
+INFO 2024-11-24 16:16:12,624 signals User student_user registered.
+INFO 2024-11-24 16:16:12,779 signals User admin logged in.
+INFO 2024-11-24 16:16:12,925 signals User student_user registered.
+INFO 2024-11-24 16:16:13,077 signals User student_user registered.
+INFO 2024-11-24 16:16:55,759 signals User admin registered.
+INFO 2024-11-24 16:16:55,907 signals User student_user registered.
+INFO 2024-11-24 16:16:56,060 signals User admin logged in.
+INFO 2024-11-24 16:16:56,212 signals User student_user registered.
+INFO 2024-11-24 16:16:56,362 signals User student_user registered.
+INFO 2024-11-24 16:18:38,414 signals User admin registered.
+INFO 2024-11-24 16:18:38,564 signals User student_user registered.
+INFO 2024-11-24 16:18:38,715 signals User admin logged in.
+INFO 2024-11-24 16:18:38,869 signals User student_user registered.
+INFO 2024-11-24 16:18:39,015 signals User student_user registered.
+INFO 2024-11-24 16:20:18,714 signals User admin registered.
+INFO 2024-11-24 16:20:18,866 signals User student_user registered.
+INFO 2024-11-24 16:20:19,015 signals User admin logged in.
+INFO 2024-11-24 16:20:19,166 signals User student_user registered.
+INFO 2024-11-24 16:20:19,312 signals User student_user registered.
+INFO 2024-11-24 16:21:39,161 signals User admin registered.
+INFO 2024-11-24 16:21:39,312 signals User student_user registered.
+INFO 2024-11-24 16:21:39,469 signals User admin logged in.
+INFO 2024-11-24 16:21:39,620 signals User student_user registered.
+INFO 2024-11-24 16:21:39,762 signals User student_user registered.
+INFO 2024-11-24 16:24:36,411 signals User admin registered.
+INFO 2024-11-24 16:25:14,206 signals User admin logged in.
+INFO 2024-11-24 16:25:19,527 signals User admin logged in.
+INFO 2024-11-24 16:32:13,717 signals User admin123 registered.
+INFO 2024-11-24 16:32:23,539 signals User admin123 logged in.
+INFO 2024-11-24 16:34:10,632 signals User admin123 logged in.
+INFO 2024-11-24 16:36:10,005 signals User admin registered.
+INFO 2024-11-24 16:36:10,150 signals User student_user registered.
+INFO 2024-11-24 16:36:10,304 signals User admin logged in.
+INFO 2024-11-24 16:36:10,458 signals User student_user registered.
+INFO 2024-11-24 16:36:10,606 signals User student_user registered.
+INFO 2024-11-24 16:37:23,984 signals User admin registered.
+INFO 2024-11-24 16:37:24,140 signals User student_user registered.
+INFO 2024-11-24 16:37:24,312 signals User admin logged in.
+INFO 2024-11-24 16:37:24,475 signals User student_user registered.
+INFO 2024-11-24 16:37:24,623 signals User student_user registered.
+INFO 2024-11-24 16:37:36,126 signals User admin registered.
+INFO 2024-11-24 16:37:36,332 signals User student_user registered.
+INFO 2024-11-24 16:37:36,505 signals User admin logged in.
+INFO 2024-11-24 16:37:36,668 signals User student_user registered.
+INFO 2024-11-24 16:37:36,820 signals User student_user registered.
+INFO 2024-11-24 16:38:07,175 signals User admin registered.
+INFO 2024-11-24 16:38:07,322 signals User student_user registered.
+INFO 2024-11-24 16:38:07,479 signals User admin logged in.
+INFO 2024-11-24 16:38:07,630 signals User student_user registered.
+INFO 2024-11-24 16:38:07,774 signals User student_user registered.
+INFO 2024-11-24 16:39:05,691 signals User admin registered.
+INFO 2024-11-24 16:39:05,841 signals User student_user registered.
+INFO 2024-11-24 16:39:05,998 signals User admin logged in.
+INFO 2024-11-24 16:39:06,153 signals User admin registered.
+INFO 2024-11-24 16:39:06,300 signals User student_user registered.
+INFO 2024-11-24 16:39:06,447 signals User admin logged in.
+INFO 2024-11-24 16:39:06,596 signals User student_user registered.
+INFO 2024-11-24 16:39:06,742 signals User student_user registered.
+INFO 2024-11-24 16:39:23,699 signals User admin registered.
+INFO 2024-11-24 16:39:23,864 signals User student_user registered.
+INFO 2024-11-24 16:39:24,026 signals User admin logged in.
+INFO 2024-11-24 16:39:24,180 signals User admin registered.
+INFO 2024-11-24 16:39:24,337 signals User student_user registered.
+INFO 2024-11-24 16:39:24,485 signals User admin logged in.
+INFO 2024-11-24 16:39:24,640 signals User student_user registered.
+INFO 2024-11-24 16:39:24,794 signals User student_user registered.
+INFO 2024-11-24 16:45:53,095 signals User admin registered.
+INFO 2024-11-24 16:45:53,241 signals User student_user registered.
+INFO 2024-11-24 16:45:53,446 signals User admin logged in.
+INFO 2024-11-24 16:45:53,599 signals User admin registered.
+INFO 2024-11-24 16:45:53,748 signals User student_user registered.
+INFO 2024-11-24 16:45:53,898 signals User admin logged in.
+INFO 2024-11-24 16:45:54,051 signals User student_user registered.
+INFO 2024-11-24 16:45:54,201 signals User student_user registered.
+INFO 2024-11-24 16:47:56,293 signals User admin registered.
+INFO 2024-11-24 16:47:56,437 signals User student_user registered.
+INFO 2024-11-24 16:47:56,644 signals User admin logged in.
+INFO 2024-11-24 16:47:56,794 signals User admin registered.
+INFO 2024-11-24 16:47:56,947 signals User student_user registered.
+INFO 2024-11-24 16:47:57,098 signals User admin logged in.
+INFO 2024-11-24 16:47:57,251 signals User student_user registered.
+INFO 2024-11-24 16:47:57,403 signals User student_user registered.
+INFO 2024-11-24 16:50:22,457 signals User admin registered.
+INFO 2024-11-24 16:50:22,610 signals User student_user registered.
+INFO 2024-11-24 16:50:22,650 tasks Welcome email sent to user@example.com
+INFO 2024-11-24 16:50:22,794 signals User admin logged in.
+INFO 2024-11-24 16:50:22,944 signals User admin registered.
+INFO 2024-11-24 16:50:23,090 signals User student_user registered.
+INFO 2024-11-24 16:50:23,093 tasks Welcome email sent to user@example.com
+INFO 2024-11-24 16:50:23,238 signals User admin logged in.
+INFO 2024-11-24 16:50:23,384 signals User student_user registered.
+INFO 2024-11-24 16:50:23,386 tasks Welcome email sent to user@example.com
+INFO 2024-11-24 16:50:23,533 signals User student_user registered.
+INFO 2024-11-24 16:50:23,536 tasks Welcome email sent to user@example.com
+INFO 2024-11-24 16:59:00,247 signals User admin registered.
+INFO 2024-11-24 16:59:00,399 signals User student_user registered.
+INFO 2024-11-24 16:59:00,552 signals User admin logged in.
+INFO 2024-11-24 16:59:00,713 signals User admin registered.
+INFO 2024-11-24 16:59:00,862 signals User student_user registered.
+INFO 2024-11-24 16:59:01,009 signals User admin logged in.
+INFO 2024-11-24 16:59:01,155 signals User admin registered.
+INFO 2024-11-24 16:59:01,301 signals User student_user registered.
+INFO 2024-11-24 16:59:01,446 signals User admin logged in.
+INFO 2024-11-24 16:59:01,595 signals User admin registered.
+INFO 2024-11-24 16:59:01,740 signals User student_user registered.
+INFO 2024-11-24 16:59:01,885 signals User admin logged in.
+INFO 2024-11-24 16:59:02,031 signals User admin registered.
+INFO 2024-11-24 16:59:02,189 signals User student_user registered.
+INFO 2024-11-24 16:59:02,338 signals User admin logged in.
+INFO 2024-11-24 16:59:02,486 signals User admin registered.
+INFO 2024-11-24 16:59:02,637 signals User student_user registered.
+INFO 2024-11-24 16:59:02,808 signals User admin logged in.
+INFO 2024-11-24 16:59:02,959 signals User admin registered.
+INFO 2024-11-24 16:59:03,102 signals User student_user registered.
+INFO 2024-11-24 16:59:03,249 signals User admin logged in.
+INFO 2024-11-24 17:02:30,176 signals User admin registered.
+INFO 2024-11-24 17:02:30,322 signals User student_user registered.
+INFO 2024-11-24 17:02:30,472 signals User admin logged in.
+INFO 2024-11-24 17:02:30,628 signals User admin registered.
+INFO 2024-11-24 17:02:30,778 signals User student_user registered.
+INFO 2024-11-24 17:02:30,928 signals User admin logged in.
+INFO 2024-11-24 17:02:31,080 signals User admin registered.
+INFO 2024-11-24 17:02:31,227 signals User student_user registered.
+INFO 2024-11-24 17:02:31,375 signals User admin logged in.
+INFO 2024-11-24 17:02:31,520 signals User admin registered.
+INFO 2024-11-24 17:02:31,669 signals User student_user registered.
+INFO 2024-11-24 17:02:31,813 signals User admin logged in.
+INFO 2024-11-24 17:02:31,959 signals User admin registered.
+INFO 2024-11-24 17:02:32,105 signals User student_user registered.
+INFO 2024-11-24 17:02:32,252 signals User admin logged in.
+INFO 2024-11-24 17:02:32,399 signals User admin registered.
+INFO 2024-11-24 17:02:32,542 signals User student_user registered.
+INFO 2024-11-24 17:02:32,702 signals User admin logged in.
+INFO 2024-11-24 17:02:32,849 signals User admin registered.
+INFO 2024-11-24 17:02:32,994 signals User student_user registered.
+INFO 2024-11-24 17:02:33,137 signals User admin logged in.
+INFO 2024-11-24 17:05:53,391 signals User admin registered.
+INFO 2024-11-24 17:05:53,548 signals User student_user registered.
+INFO 2024-11-24 17:05:53,705 signals User admin logged in.
+INFO 2024-11-24 17:05:53,866 signals User admin registered.
+INFO 2024-11-24 17:05:54,010 signals User student_user registered.
+INFO 2024-11-24 17:05:54,161 signals User admin logged in.
+INFO 2024-11-24 17:05:54,330 signals User admin registered.
+INFO 2024-11-24 17:05:54,479 signals User student_user registered.
+INFO 2024-11-24 17:05:54,629 signals User admin logged in.
+INFO 2024-11-24 17:05:54,781 signals User admin registered.
+INFO 2024-11-24 17:05:54,932 signals User student_user registered.
+INFO 2024-11-24 17:05:55,079 signals User admin logged in.
+INFO 2024-11-24 17:05:55,225 signals User admin registered.
+INFO 2024-11-24 17:05:55,374 signals User student_user registered.
+INFO 2024-11-24 17:05:55,538 signals User admin logged in.
+INFO 2024-11-24 17:05:55,688 signals User admin registered.
+INFO 2024-11-24 17:05:55,835 signals User student_user registered.
+INFO 2024-11-24 17:05:55,979 signals User admin logged in.
+INFO 2024-11-24 17:05:56,127 signals User admin registered.
+INFO 2024-11-24 17:05:56,275 signals User student_user registered.
+INFO 2024-11-24 17:05:56,421 signals User admin logged in.
+INFO 2024-11-24 17:06:50,742 signals User admin registered.
+INFO 2024-11-24 17:06:50,888 signals User student_user registered.
+INFO 2024-11-24 17:06:51,044 signals User admin logged in.
+INFO 2024-11-24 17:06:51,202 signals User admin registered.
+INFO 2024-11-24 17:06:51,344 signals User student_user registered.
+INFO 2024-11-24 17:06:51,489 signals User admin logged in.
+INFO 2024-11-24 17:06:51,639 signals User admin registered.
+INFO 2024-11-24 17:06:51,783 signals User student_user registered.
+INFO 2024-11-24 17:06:51,929 signals User admin logged in.
+INFO 2024-11-24 17:06:52,074 signals User admin registered.
+INFO 2024-11-24 17:06:52,217 signals User student_user registered.
+INFO 2024-11-24 17:06:52,378 signals User admin logged in.
+INFO 2024-11-24 17:06:52,529 signals User admin registered.
+INFO 2024-11-24 17:06:52,671 signals User student_user registered.
+INFO 2024-11-24 17:06:52,818 signals User admin logged in.
+INFO 2024-11-24 17:06:52,969 signals User admin registered.
+INFO 2024-11-24 17:06:53,113 signals User student_user registered.
+INFO 2024-11-24 17:06:53,258 signals User admin logged in.
+INFO 2024-11-24 17:06:53,404 signals User admin registered.
+INFO 2024-11-24 17:06:53,551 signals User student_user registered.
+INFO 2024-11-24 17:06:53,701 signals User admin logged in.
+INFO 2024-11-24 17:10:15,435 signals User admin registered.
+INFO 2024-11-24 17:10:15,588 signals User student_user registered.
+INFO 2024-11-24 17:10:15,735 signals User teacher_user registered.
+INFO 2024-11-24 17:10:15,892 signals User admin logged in.
+INFO 2024-11-24 17:10:16,050 signals User admin registered.
+INFO 2024-11-24 17:10:16,195 signals User student_user registered.
+INFO 2024-11-24 17:10:16,341 signals User teacher_user registered.
+INFO 2024-11-24 17:10:16,486 signals User admin logged in.
+INFO 2024-11-24 17:10:16,640 signals User admin registered.
+INFO 2024-11-24 17:10:16,788 signals User student_user registered.
+INFO 2024-11-24 17:10:16,938 signals User teacher_user registered.
+INFO 2024-11-24 17:10:17,086 signals User admin logged in.
+INFO 2024-11-24 17:10:17,271 signals User admin registered.
+INFO 2024-11-24 17:10:17,419 signals User student_user registered.
+INFO 2024-11-24 17:10:17,564 signals User teacher_user registered.
+INFO 2024-11-24 17:10:17,732 signals User admin logged in.
+INFO 2024-11-24 17:10:17,887 signals User admin registered.
+INFO 2024-11-24 17:10:18,045 signals User student_user registered.
+INFO 2024-11-24 17:10:18,206 signals User teacher_user registered.
+INFO 2024-11-24 17:10:18,360 signals User admin logged in.
+INFO 2024-11-24 17:10:18,520 signals User admin registered.
+INFO 2024-11-24 17:10:18,664 signals User student_user registered.
+INFO 2024-11-24 17:10:18,806 signals User teacher_user registered.
+INFO 2024-11-24 17:10:18,956 signals User admin logged in.
+INFO 2024-11-24 17:10:19,099 signals User admin registered.
+INFO 2024-11-24 17:10:19,242 signals User student_user registered.
+INFO 2024-11-24 17:10:19,391 signals User teacher_user registered.
+INFO 2024-11-24 17:10:19,552 signals User admin logged in.
+INFO 2024-11-24 17:11:26,419 signals User admin registered.
+INFO 2024-11-24 17:11:26,569 signals User student_user registered.
+INFO 2024-11-24 17:11:26,718 signals User teacher_user registered.
+INFO 2024-11-24 17:11:26,872 signals User teacher_user logged in.
+INFO 2024-11-24 17:11:27,027 signals User admin registered.
+INFO 2024-11-24 17:11:27,174 signals User student_user registered.
+INFO 2024-11-24 17:11:27,327 signals User teacher_user registered.
+INFO 2024-11-24 17:11:27,480 signals User teacher_user logged in.
+INFO 2024-11-24 17:11:27,655 signals User admin registered.
+INFO 2024-11-24 17:11:27,807 signals User student_user registered.
+INFO 2024-11-24 17:11:27,958 signals User teacher_user registered.
+INFO 2024-11-24 17:11:28,112 signals User teacher_user logged in.
+INFO 2024-11-24 17:11:28,268 signals User admin registered.
+INFO 2024-11-24 17:11:28,420 signals User student_user registered.
+INFO 2024-11-24 17:11:28,566 signals User teacher_user registered.
+INFO 2024-11-24 17:11:28,721 signals User teacher_user logged in.
+INFO 2024-11-24 17:11:28,871 signals User admin registered.
+INFO 2024-11-24 17:11:29,018 signals User student_user registered.
+INFO 2024-11-24 17:11:29,162 signals User teacher_user registered.
+INFO 2024-11-24 17:11:29,308 signals User teacher_user logged in.
+INFO 2024-11-24 17:11:29,467 signals User admin registered.
+INFO 2024-11-24 17:11:29,625 signals User student_user registered.
+INFO 2024-11-24 17:11:29,773 signals User teacher_user registered.
+INFO 2024-11-24 17:11:29,927 signals User teacher_user logged in.
+INFO 2024-11-24 17:11:30,075 signals User admin registered.
+INFO 2024-11-24 17:11:30,225 signals User student_user registered.
+INFO 2024-11-24 17:11:30,374 signals User teacher_user registered.
+INFO 2024-11-24 17:11:30,527 signals User teacher_user logged in.
+INFO 2024-11-24 17:12:56,624 signals User admin registered.
+INFO 2024-11-24 17:12:56,773 signals User student_user registered.
+INFO 2024-11-24 17:12:56,922 signals User teacher_user registered.
+INFO 2024-11-24 17:12:57,070 signals User teacher_user logged in.
+INFO 2024-11-24 17:12:57,271 signals User admin registered.
+INFO 2024-11-24 17:12:57,414 signals User student_user registered.
+INFO 2024-11-24 17:12:57,559 signals User teacher_user registered.
+INFO 2024-11-24 17:12:57,704 signals User teacher_user logged in.
+INFO 2024-11-24 17:12:57,859 signals User admin registered.
+INFO 2024-11-24 17:12:58,002 signals User student_user registered.
+INFO 2024-11-24 17:12:58,145 signals User teacher_user registered.
+INFO 2024-11-24 17:12:58,298 signals User teacher_user logged in.
+INFO 2024-11-24 17:12:58,452 signals User admin registered.
+INFO 2024-11-24 17:12:58,601 signals User student_user registered.
+INFO 2024-11-24 17:12:58,745 signals User teacher_user registered.
+INFO 2024-11-24 17:12:58,896 signals User teacher_user logged in.
+INFO 2024-11-24 17:12:59,068 signals User admin registered.
+INFO 2024-11-24 17:12:59,215 signals User student_user registered.
+INFO 2024-11-24 17:12:59,359 signals User teacher_user registered.
+INFO 2024-11-24 17:12:59,511 signals User teacher_user logged in.
+INFO 2024-11-24 17:12:59,658 signals User admin registered.
+INFO 2024-11-24 17:12:59,803 signals User student_user registered.
+INFO 2024-11-24 17:12:59,950 signals User teacher_user registered.
+INFO 2024-11-24 17:13:00,100 signals User teacher_user logged in.
+INFO 2024-11-24 17:13:00,253 signals User admin registered.
+INFO 2024-11-24 17:13:00,397 signals User student_user registered.
+INFO 2024-11-24 17:13:00,541 signals User teacher_user registered.
+INFO 2024-11-24 17:13:00,688 signals User teacher_user logged in.
+INFO 2024-11-24 17:15:47,251 signals User admin registered.
+INFO 2024-11-24 17:15:47,404 signals User student_user registered.
+INFO 2024-11-24 17:15:47,551 signals User teacher_user registered.
+INFO 2024-11-24 17:15:47,704 signals User teacher_user logged in.
+INFO 2024-11-24 17:15:47,864 signals User admin registered.
+INFO 2024-11-24 17:15:48,012 signals User student_user registered.
+INFO 2024-11-24 17:15:48,155 signals User teacher_user registered.
+INFO 2024-11-24 17:15:48,305 signals User teacher_user logged in.
+INFO 2024-11-24 17:15:48,457 signals User admin registered.
+INFO 2024-11-24 17:15:48,597 signals User student_user registered.
+INFO 2024-11-24 17:15:48,738 signals User teacher_user registered.
+INFO 2024-11-24 17:15:48,882 signals User teacher_user logged in.
+INFO 2024-11-24 17:15:49,027 signals User admin registered.
+INFO 2024-11-24 17:15:49,170 signals User student_user registered.
+INFO 2024-11-24 17:15:49,322 signals User teacher_user registered.
+INFO 2024-11-24 17:15:49,467 signals User teacher_user logged in.
+INFO 2024-11-24 17:15:49,726 signals User admin registered.
+INFO 2024-11-24 17:15:49,875 signals User student_user registered.
+INFO 2024-11-24 17:15:50,019 signals User teacher_user registered.
+INFO 2024-11-24 17:15:50,169 signals User teacher_user logged in.
+INFO 2024-11-24 17:15:50,325 signals User admin registered.
+INFO 2024-11-24 17:15:50,465 signals User student_user registered.
+INFO 2024-11-24 17:15:50,606 signals User teacher_user registered.
+INFO 2024-11-24 17:15:50,747 signals User teacher_user logged in.
+INFO 2024-11-24 17:15:50,898 signals User admin registered.
+INFO 2024-11-24 17:15:51,048 signals User student_user registered.
+INFO 2024-11-24 17:15:51,191 signals User teacher_user registered.
+INFO 2024-11-24 17:15:51,338 signals User teacher_user logged in.
+INFO 2024-11-24 17:16:13,173 signals User admin registered.
+INFO 2024-11-24 17:16:13,322 signals User student_user registered.
+INFO 2024-11-24 17:16:13,466 signals User teacher_user registered.
+INFO 2024-11-24 17:16:13,617 signals User teacher_user logged in.
+INFO 2024-11-24 17:16:13,768 signals User admin logged in.
+INFO 2024-11-24 17:16:13,921 signals User admin registered.
+INFO 2024-11-24 17:16:14,077 signals User student_user registered.
+INFO 2024-11-24 17:16:14,223 signals User teacher_user registered.
+INFO 2024-11-24 17:16:14,373 signals User teacher_user logged in.
+INFO 2024-11-24 17:16:14,528 signals User admin registered.
+INFO 2024-11-24 17:16:14,677 signals User student_user registered.
+INFO 2024-11-24 17:16:14,829 signals User teacher_user registered.
+INFO 2024-11-24 17:16:14,977 signals User teacher_user logged in.
+INFO 2024-11-24 17:16:15,126 signals User admin registered.
+INFO 2024-11-24 17:16:15,277 signals User student_user registered.
+INFO 2024-11-24 17:16:15,438 signals User teacher_user registered.
+INFO 2024-11-24 17:16:15,586 signals User teacher_user logged in.
+INFO 2024-11-24 17:16:15,760 signals User admin registered.
+INFO 2024-11-24 17:16:15,912 signals User student_user registered.
+INFO 2024-11-24 17:16:16,061 signals User teacher_user registered.
+INFO 2024-11-24 17:16:16,210 signals User teacher_user logged in.
+INFO 2024-11-24 17:16:16,360 signals User admin registered.
+INFO 2024-11-24 17:16:16,508 signals User student_user registered.
+INFO 2024-11-24 17:16:16,662 signals User teacher_user registered.
+INFO 2024-11-24 17:16:16,808 signals User teacher_user logged in.
+INFO 2024-11-24 17:16:16,957 signals User admin registered.
+INFO 2024-11-24 17:16:17,104 signals User student_user registered.
+INFO 2024-11-24 17:16:17,253 signals User teacher_user registered.
+INFO 2024-11-24 17:16:17,400 signals User teacher_user logged in.
+INFO 2024-11-24 17:19:48,084 signals User admin registered.
+INFO 2024-11-24 17:19:48,454 signals User student_user registered.
+INFO 2024-11-24 17:19:48,848 signals User teacher_user registered.
+INFO 2024-11-24 17:19:49,280 signals User teacher_user logged in.
+INFO 2024-11-24 17:19:49,709 signals User admin registered.
+INFO 2024-11-24 17:19:50,100 signals User student_user registered.
+INFO 2024-11-24 17:19:50,506 signals User teacher_user registered.
+INFO 2024-11-24 17:19:50,896 signals User teacher_user logged in.
+INFO 2024-11-24 17:19:51,253 signals User admin registered.
+INFO 2024-11-24 17:19:51,545 signals User student_user registered.
+INFO 2024-11-24 17:19:51,853 signals User teacher_user registered.
+INFO 2024-11-24 17:19:52,116 signals User teacher_user logged in.
+INFO 2024-11-24 17:19:52,369 signals User admin registered.
+INFO 2024-11-24 17:19:52,615 signals User student_user registered.
+INFO 2024-11-24 17:19:52,836 signals User teacher_user registered.
+INFO 2024-11-24 17:19:53,062 signals User teacher_user logged in.
+INFO 2024-11-24 17:19:53,315 signals User admin registered.
+INFO 2024-11-24 17:19:53,543 signals User student_user registered.
+INFO 2024-11-24 17:19:53,775 signals User teacher_user registered.
+INFO 2024-11-24 17:19:54,033 signals User teacher_user logged in.
+INFO 2024-11-24 17:19:54,262 signals User admin registered.
+INFO 2024-11-24 17:19:54,486 signals User student_user registered.
+INFO 2024-11-24 17:19:54,717 signals User teacher_user registered.
+INFO 2024-11-24 17:19:54,951 signals User teacher_user logged in.
+INFO 2024-11-24 17:19:55,208 signals User admin registered.
+INFO 2024-11-24 17:19:55,460 signals User student_user registered.
+INFO 2024-11-24 17:19:55,715 signals User teacher_user registered.
+INFO 2024-11-24 17:19:55,964 signals User teacher_user logged in.
+INFO 2024-11-24 17:21:37,528 signals User admin registered.
+INFO 2024-11-24 17:21:37,785 signals User student_user registered.
+INFO 2024-11-24 17:21:38,099 signals User teacher_user registered.
+INFO 2024-11-24 17:21:38,532 signals User teacher_user logged in.
+INFO 2024-11-24 17:21:38,936 signals User admin registered.
+INFO 2024-11-24 17:21:39,435 signals User student_user registered.
+INFO 2024-11-24 17:21:40,172 signals User teacher_user registered.
+INFO 2024-11-24 17:21:41,305 signals User teacher_user logged in.
+INFO 2024-11-24 17:21:42,061 signals User admin registered.
+INFO 2024-11-24 17:21:42,780 signals User student_user registered.
+INFO 2024-11-24 17:21:43,778 signals User teacher_user registered.
+INFO 2024-11-24 17:21:44,188 signals User teacher_user logged in.
+INFO 2024-11-24 17:21:44,350 signals User admin registered.
+INFO 2024-11-24 17:21:44,510 signals User student_user registered.
+INFO 2024-11-24 17:21:44,669 signals User teacher_user registered.
+INFO 2024-11-24 17:21:44,828 signals User teacher_user logged in.
+INFO 2024-11-24 17:21:45,017 signals User admin registered.
+INFO 2024-11-24 17:21:45,185 signals User student_user registered.
+INFO 2024-11-24 17:21:45,345 signals User teacher_user registered.
+INFO 2024-11-24 17:21:45,510 signals User teacher_user logged in.
+INFO 2024-11-24 17:21:45,681 signals User admin registered.
+INFO 2024-11-24 17:21:45,839 signals User student_user registered.
+INFO 2024-11-24 17:21:46,000 signals User teacher_user registered.
+INFO 2024-11-24 17:21:46,162 signals User teacher_user logged in.
+INFO 2024-11-24 17:21:46,338 signals User admin registered.
+INFO 2024-11-24 17:21:46,528 signals User student_user registered.
+INFO 2024-11-24 17:21:46,685 signals User teacher_user registered.
+INFO 2024-11-24 17:21:46,841 signals User teacher_user logged in.
+INFO 2024-11-24 17:21:56,021 signals User admin registered.
+INFO 2024-11-24 17:21:56,189 signals User student_user registered.
+INFO 2024-11-24 17:21:56,385 signals User teacher_user registered.
+INFO 2024-11-24 17:21:56,625 signals User teacher_user logged in.
+INFO 2024-11-24 17:21:56,893 signals User admin registered.
+INFO 2024-11-24 17:21:57,057 signals User student_user registered.
+INFO 2024-11-24 17:21:57,208 signals User teacher_user registered.
+INFO 2024-11-24 17:21:57,364 signals User teacher_user logged in.
+INFO 2024-11-24 17:21:57,532 signals User admin registered.
+INFO 2024-11-24 17:21:57,676 signals User student_user registered.
+INFO 2024-11-24 17:21:57,821 signals User teacher_user registered.
+INFO 2024-11-24 17:21:57,965 signals User teacher_user logged in.
+INFO 2024-11-24 17:21:58,108 signals User admin registered.
+INFO 2024-11-24 17:21:58,252 signals User student_user registered.
+INFO 2024-11-24 17:21:58,396 signals User teacher_user registered.
+INFO 2024-11-24 17:21:58,540 signals User teacher_user logged in.
+INFO 2024-11-24 17:21:58,712 signals User admin registered.
+INFO 2024-11-24 17:21:58,855 signals User student_user registered.
+INFO 2024-11-24 17:21:59,001 signals User teacher_user registered.
+INFO 2024-11-24 17:21:59,151 signals User teacher_user logged in.
+INFO 2024-11-24 17:21:59,295 signals User admin registered.
+INFO 2024-11-24 17:21:59,436 signals User student_user registered.
+INFO 2024-11-24 17:21:59,582 signals User teacher_user registered.
+INFO 2024-11-24 17:21:59,729 signals User teacher_user logged in.
+INFO 2024-11-24 17:21:59,878 signals User admin registered.
+INFO 2024-11-24 17:22:00,020 signals User student_user registered.
+INFO 2024-11-24 17:22:00,162 signals User teacher_user registered.
+INFO 2024-11-24 17:22:00,306 signals User teacher_user logged in.
+INFO 2024-11-24 17:22:24,235 signals User admin registered.
+INFO 2024-11-24 17:22:24,387 signals User student_user registered.
+INFO 2024-11-24 17:22:24,533 signals User teacher_user registered.
+INFO 2024-11-24 17:22:24,682 signals User teacher_user logged in.
+INFO 2024-11-24 17:22:24,857 signals User admin registered.
+INFO 2024-11-24 17:22:25,000 signals User student_user registered.
+INFO 2024-11-24 17:22:25,144 signals User teacher_user registered.
+INFO 2024-11-24 17:22:25,291 signals User teacher_user logged in.
+INFO 2024-11-24 17:22:25,437 signals User admin registered.
+INFO 2024-11-24 17:22:25,581 signals User student_user registered.
+INFO 2024-11-24 17:22:25,721 signals User teacher_user registered.
+INFO 2024-11-24 17:22:25,867 signals User teacher_user logged in.
+INFO 2024-11-24 17:22:26,034 signals User admin registered.
+INFO 2024-11-24 17:22:26,178 signals User student_user registered.
+INFO 2024-11-24 17:22:26,323 signals User teacher_user registered.
+INFO 2024-11-24 17:22:26,471 signals User teacher_user logged in.
+INFO 2024-11-24 17:22:26,617 signals User admin registered.
+INFO 2024-11-24 17:22:26,760 signals User student_user registered.
+INFO 2024-11-24 17:22:26,910 signals User teacher_user registered.
+INFO 2024-11-24 17:22:27,058 signals User teacher_user logged in.
+INFO 2024-11-24 17:22:27,209 signals User admin registered.
+INFO 2024-11-24 17:22:27,362 signals User student_user registered.
+INFO 2024-11-24 17:22:27,506 signals User teacher_user registered.
+INFO 2024-11-24 17:22:27,650 signals User teacher_user logged in.
+INFO 2024-11-24 17:24:34,862 signals User admin registered.
+INFO 2024-11-24 17:24:35,018 signals User student_user registered.
+INFO 2024-11-24 17:24:35,169 signals User teacher_user registered.
+INFO 2024-11-24 17:24:35,324 signals User teacher_user logged in.
+INFO 2024-11-24 17:24:35,483 signals User admin registered.
+INFO 2024-11-24 17:24:35,633 signals User student_user registered.
+INFO 2024-11-24 17:24:35,786 signals User teacher_user registered.
+INFO 2024-11-24 17:24:35,933 signals User teacher_user logged in.
+INFO 2024-11-24 17:24:36,087 signals User admin registered.
+INFO 2024-11-24 17:24:36,236 signals User student_user registered.
+INFO 2024-11-24 17:24:36,380 signals User teacher_user registered.
+INFO 2024-11-24 17:24:36,528 signals User teacher_user logged in.
+INFO 2024-11-24 17:24:36,698 signals User admin registered.
+INFO 2024-11-24 17:24:36,840 signals User student_user registered.
+INFO 2024-11-24 17:24:36,986 signals User teacher_user registered.
+INFO 2024-11-24 17:24:37,135 signals User teacher_user logged in.
+INFO 2024-11-24 17:25:40,445 signals User admin registered.
+INFO 2024-11-24 17:25:40,592 signals User student_user registered.
+INFO 2024-11-24 17:25:40,735 signals User teacher_user registered.
+INFO 2024-11-24 17:25:40,888 signals User teacher_user logged in.
+INFO 2024-11-24 17:25:41,047 signals User admin registered.
+INFO 2024-11-24 17:25:41,194 signals User student_user registered.
+INFO 2024-11-24 17:25:41,340 signals User teacher_user registered.
+INFO 2024-11-24 17:25:41,485 signals User teacher_user logged in.
+INFO 2024-11-24 17:25:41,637 signals User admin registered.
+INFO 2024-11-24 17:25:41,785 signals User student_user registered.
+INFO 2024-11-24 17:25:41,929 signals User teacher_user registered.
+INFO 2024-11-24 17:25:42,077 signals User teacher_user logged in.
+INFO 2024-11-24 17:25:42,258 signals User admin registered.
+INFO 2024-11-24 17:25:42,405 signals User student_user registered.
+INFO 2024-11-24 17:25:42,549 signals User teacher_user registered.
+INFO 2024-11-24 17:25:42,695 signals User teacher_user logged in.
+INFO 2024-11-24 17:25:48,951 signals User admin registered.
+INFO 2024-11-24 17:25:49,097 signals User student_user registered.
+INFO 2024-11-24 17:25:49,245 signals User teacher_user registered.
+INFO 2024-11-24 17:25:49,395 signals User teacher_user logged in.
+INFO 2024-11-24 17:25:49,552 signals User admin registered.
+INFO 2024-11-24 17:25:49,695 signals User student_user registered.
+INFO 2024-11-24 17:25:49,839 signals User teacher_user registered.
+INFO 2024-11-24 17:25:49,985 signals User teacher_user logged in.
+INFO 2024-11-24 17:25:50,131 signals User admin registered.
+INFO 2024-11-24 17:25:50,279 signals User student_user registered.
+INFO 2024-11-24 17:25:50,428 signals User teacher_user registered.
+INFO 2024-11-24 17:25:50,577 signals User teacher_user logged in.
+INFO 2024-11-24 17:25:50,746 signals User admin registered.
+INFO 2024-11-24 17:25:50,890 signals User student_user registered.
+INFO 2024-11-24 17:25:51,043 signals User teacher_user registered.
+INFO 2024-11-24 17:25:51,190 signals User teacher_user logged in.
+INFO 2024-11-24 17:29:11,600 signals User admin registered.
+INFO 2024-11-24 17:29:11,755 signals User student_user registered.
+INFO 2024-11-24 17:29:11,973 signals User teacher_user registered.
+INFO 2024-11-24 17:29:12,139 signals User teacher_user logged in.
+INFO 2024-11-24 17:29:12,300 signals User admin registered.
+INFO 2024-11-24 17:29:12,443 signals User student_user registered.
+INFO 2024-11-24 17:29:12,586 signals User teacher_user registered.
+INFO 2024-11-24 17:29:12,732 signals User teacher_user logged in.
+INFO 2024-11-24 17:29:12,884 signals User admin registered.
+INFO 2024-11-24 17:29:13,029 signals User student_user registered.
+INFO 2024-11-24 17:29:13,173 signals User teacher_user registered.
+INFO 2024-11-24 17:29:13,321 signals User teacher_user logged in.
+INFO 2024-11-24 17:29:13,472 signals User admin registered.
+INFO 2024-11-24 17:29:13,619 signals User student_user registered.
+INFO 2024-11-24 17:29:13,762 signals User teacher_user registered.
+INFO 2024-11-24 17:29:13,907 signals User teacher_user logged in.
+INFO 2024-11-24 17:29:14,088 signals User admin registered.
+INFO 2024-11-24 17:29:14,235 signals User student_user registered.
+INFO 2024-11-24 17:29:14,381 signals User teacher_user registered.
+INFO 2024-11-24 17:29:14,525 signals User teacher_user logged in.
+INFO 2024-11-24 17:29:14,675 signals User admin registered.
+INFO 2024-11-24 17:29:14,820 signals User student_user registered.
+INFO 2024-11-24 17:29:14,964 signals User teacher_user registered.
+INFO 2024-11-24 17:29:15,109 signals User teacher_user logged in.
+INFO 2024-11-24 17:29:15,256 signals User admin registered.
+INFO 2024-11-24 17:29:15,401 signals User student_user registered.
+INFO 2024-11-24 17:29:15,546 signals User teacher_user registered.
+INFO 2024-11-24 17:29:15,693 signals User teacher_user logged in.
+INFO 2024-11-24 17:30:13,545 signals User admin registered.
+INFO 2024-11-24 17:30:13,703 signals User student_user registered.
+INFO 2024-11-24 17:30:13,856 signals User teacher_user registered.
+INFO 2024-11-24 17:30:14,014 signals User teacher_user logged in.
+INFO 2024-11-24 17:30:14,171 signals User admin registered.
+INFO 2024-11-24 17:30:14,318 signals User student_user registered.
+INFO 2024-11-24 17:30:14,464 signals User teacher_user registered.
+INFO 2024-11-24 17:30:14,620 signals User teacher_user logged in.
+INFO 2024-11-24 17:30:14,782 signals User admin registered.
+INFO 2024-11-24 17:30:14,929 signals User student_user registered.
+INFO 2024-11-24 17:30:15,076 signals User teacher_user registered.
+INFO 2024-11-24 17:30:15,226 signals User teacher_user logged in.
+INFO 2024-11-24 17:30:15,383 signals User admin registered.
+INFO 2024-11-24 17:30:15,541 signals User student_user registered.
+INFO 2024-11-24 17:30:15,691 signals User teacher_user registered.
+INFO 2024-11-24 17:30:15,842 signals User teacher_user logged in.
+INFO 2024-11-24 17:30:16,006 signals User admin registered.
+INFO 2024-11-24 17:30:16,152 signals User student_user registered.
+INFO 2024-11-24 17:30:16,295 signals User teacher_user registered.
+INFO 2024-11-24 17:30:16,443 signals User teacher_user logged in.
+INFO 2024-11-24 17:30:16,594 signals User admin registered.
+INFO 2024-11-24 17:30:16,737 signals User student_user registered.
+INFO 2024-11-24 17:30:16,879 signals User teacher_user registered.
+INFO 2024-11-24 17:30:17,046 signals User teacher_user logged in.
+INFO 2024-11-24 17:30:17,195 signals User admin registered.
+INFO 2024-11-24 17:30:17,350 signals User student_user registered.
+INFO 2024-11-24 17:30:17,497 signals User teacher_user registered.
+INFO 2024-11-24 17:30:17,643 signals User teacher_user logged in.
+INFO 2024-11-24 17:30:45,760 signals User admin registered.
+INFO 2024-11-24 17:30:45,908 signals User student_user registered.
+INFO 2024-11-24 17:30:46,055 signals User teacher_user registered.
+INFO 2024-11-24 17:30:46,208 signals User teacher_user logged in.
+INFO 2024-11-24 17:30:46,364 signals User admin registered.
+INFO 2024-11-24 17:30:46,512 signals User student_user registered.
+INFO 2024-11-24 17:30:46,659 signals User teacher_user registered.
+INFO 2024-11-24 17:30:46,807 signals User teacher_user logged in.
+INFO 2024-11-24 17:30:46,956 signals User admin registered.
+INFO 2024-11-24 17:30:47,100 signals User student_user registered.
+INFO 2024-11-24 17:30:47,243 signals User teacher_user registered.
+INFO 2024-11-24 17:30:47,396 signals User teacher_user logged in.
+INFO 2024-11-24 17:30:47,553 signals User admin registered.
+INFO 2024-11-24 17:30:47,699 signals User student_user registered.
+INFO 2024-11-24 17:30:47,843 signals User teacher_user registered.
+INFO 2024-11-24 17:30:47,990 signals User teacher_user logged in.
+INFO 2024-11-24 17:30:48,159 signals User admin registered.
+INFO 2024-11-24 17:30:48,303 signals User student_user registered.
+INFO 2024-11-24 17:30:48,447 signals User teacher_user registered.
+INFO 2024-11-24 17:30:48,592 signals User teacher_user logged in.
+INFO 2024-11-24 17:30:48,743 signals User admin registered.
+INFO 2024-11-24 17:30:48,892 signals User student_user registered.
+INFO 2024-11-24 17:30:49,034 signals User teacher_user registered.
+INFO 2024-11-24 17:30:49,182 signals User teacher_user logged in.
+INFO 2024-11-24 17:30:49,329 signals User admin registered.
+INFO 2024-11-24 17:30:49,472 signals User student_user registered.
+INFO 2024-11-24 17:30:49,615 signals User teacher_user registered.
+INFO 2024-11-24 17:30:49,763 signals User teacher_user logged in.
+INFO 2024-11-24 17:31:06,204 signals User admin registered.
+INFO 2024-11-24 17:31:06,357 signals User student_user registered.
+INFO 2024-11-24 17:31:06,516 signals User teacher_user registered.
+INFO 2024-11-24 17:31:06,672 signals User teacher_user logged in.
+INFO 2024-11-24 17:31:06,836 signals User admin registered.
+INFO 2024-11-24 17:31:06,979 signals User student_user registered.
+INFO 2024-11-24 17:31:07,126 signals User teacher_user registered.
+INFO 2024-11-24 17:31:07,269 signals User teacher_user logged in.
+INFO 2024-11-24 17:31:07,417 signals User admin registered.
+INFO 2024-11-24 17:31:07,562 signals User student_user registered.
+INFO 2024-11-24 17:31:07,704 signals User teacher_user registered.
+INFO 2024-11-24 17:31:07,855 signals User teacher_user logged in.
+INFO 2024-11-24 17:31:08,033 signals User admin registered.
+INFO 2024-11-24 17:31:08,179 signals User student_user registered.
+INFO 2024-11-24 17:31:08,322 signals User teacher_user registered.
+INFO 2024-11-24 17:31:08,468 signals User teacher_user logged in.
+INFO 2024-11-24 17:32:53,850 signals User admin registered.
+INFO 2024-11-24 17:32:54,006 signals User student_user registered.
+INFO 2024-11-24 17:32:54,155 signals User teacher_user registered.
+INFO 2024-11-24 17:32:54,308 signals User teacher_user logged in.
+INFO 2024-11-24 17:32:54,470 signals User admin registered.
+INFO 2024-11-24 17:32:54,615 signals User student_user registered.
+INFO 2024-11-24 17:32:54,759 signals User teacher_user registered.
+INFO 2024-11-24 17:32:54,904 signals User teacher_user logged in.
+INFO 2024-11-24 17:32:55,048 signals User admin registered.
+INFO 2024-11-24 17:32:55,197 signals User student_user registered.
+INFO 2024-11-24 17:32:55,345 signals User teacher_user registered.
+INFO 2024-11-24 17:32:55,490 signals User teacher_user logged in.
+INFO 2024-11-24 17:32:55,645 signals User admin registered.
+INFO 2024-11-24 17:32:55,791 signals User student_user registered.
+INFO 2024-11-24 17:32:55,937 signals User teacher_user registered.
+INFO 2024-11-24 17:32:56,094 signals User teacher_user logged in.
+INFO 2024-11-24 17:33:16,455 signals User admin registered.
+INFO 2024-11-24 17:33:16,608 signals User student_user registered.
+INFO 2024-11-24 17:33:16,750 signals User teacher_user registered.
+INFO 2024-11-24 17:33:16,916 signals User teacher_user logged in.
+INFO 2024-11-24 17:33:17,085 signals User admin registered.
+INFO 2024-11-24 17:33:17,233 signals User student_user registered.
+INFO 2024-11-24 17:33:17,380 signals User teacher_user registered.
+INFO 2024-11-24 17:33:17,528 signals User teacher_user logged in.
+INFO 2024-11-24 17:33:17,681 signals User admin registered.
+INFO 2024-11-24 17:33:17,831 signals User student_user registered.
+INFO 2024-11-24 17:33:17,986 signals User teacher_user registered.
+INFO 2024-11-24 17:33:18,135 signals User teacher_user logged in.
+INFO 2024-11-24 17:33:18,303 signals User admin registered.
+INFO 2024-11-24 17:33:18,451 signals User student_user registered.
+INFO 2024-11-24 17:33:18,604 signals User teacher_user registered.
+INFO 2024-11-24 17:33:18,751 signals User teacher_user logged in.
+INFO 2024-11-24 17:34:00,860 signals User admin registered.
+INFO 2024-11-24 17:34:01,007 signals User student_user registered.
+INFO 2024-11-24 17:34:01,151 signals User teacher_user registered.
+INFO 2024-11-24 17:34:01,306 signals User teacher_user logged in.
+INFO 2024-11-24 17:34:01,463 signals User admin registered.
+INFO 2024-11-24 17:34:01,608 signals User student_user registered.
+INFO 2024-11-24 17:34:01,754 signals User teacher_user registered.
+INFO 2024-11-24 17:34:01,898 signals User teacher_user logged in.
+INFO 2024-11-24 17:34:02,046 signals User admin registered.
+INFO 2024-11-24 17:34:02,201 signals User student_user registered.
+INFO 2024-11-24 17:34:02,348 signals User teacher_user registered.
+INFO 2024-11-24 17:34:02,498 signals User teacher_user logged in.
+INFO 2024-11-24 17:34:02,665 signals User teacher_user logged in.
+INFO 2024-11-24 17:34:02,814 signals User admin registered.
+INFO 2024-11-24 17:34:02,958 signals User student_user registered.
+INFO 2024-11-24 17:34:03,100 signals User teacher_user registered.
+INFO 2024-11-24 17:34:03,245 signals User teacher_user logged in.
+INFO 2024-11-24 17:34:18,321 signals User admin registered.
+INFO 2024-11-24 17:34:18,468 signals User student_user registered.
+INFO 2024-11-24 17:34:18,613 signals User teacher_user registered.
+INFO 2024-11-24 17:34:18,767 signals User teacher_user logged in.
+INFO 2024-11-24 17:34:18,929 signals User admin registered.
+INFO 2024-11-24 17:34:19,074 signals User student_user registered.
+INFO 2024-11-24 17:34:19,219 signals User teacher_user registered.
+INFO 2024-11-24 17:34:19,366 signals User teacher_user logged in.
+INFO 2024-11-24 17:34:19,513 signals User admin registered.
+INFO 2024-11-24 17:34:19,663 signals User student_user registered.
+INFO 2024-11-24 17:34:19,807 signals User teacher_user registered.
+INFO 2024-11-24 17:34:19,962 signals User teacher_user logged in.
+INFO 2024-11-24 17:34:20,131 signals User teacher_user logged in.
+INFO 2024-11-24 17:34:20,280 signals User admin registered.
+INFO 2024-11-24 17:34:20,429 signals User student_user registered.
+INFO 2024-11-24 17:34:20,573 signals User teacher_user registered.
+INFO 2024-11-24 17:34:20,719 signals User teacher_user logged in.
+INFO 2024-11-24 17:35:04,087 signals User admin registered.
+INFO 2024-11-24 17:35:04,238 signals User student_user registered.
+INFO 2024-11-24 17:35:04,383 signals User teacher_user registered.
+INFO 2024-11-24 17:35:04,534 signals User teacher_user logged in.
+INFO 2024-11-24 17:35:04,693 signals User admin registered.
+INFO 2024-11-24 17:35:04,840 signals User student_user registered.
+INFO 2024-11-24 17:35:04,983 signals User teacher_user registered.
+INFO 2024-11-24 17:35:05,129 signals User teacher_user logged in.
+INFO 2024-11-24 17:35:05,279 signals User teacher_user logged in.
+INFO 2024-11-24 17:35:05,432 signals User admin registered.
+INFO 2024-11-24 17:35:05,577 signals User student_user registered.
+INFO 2024-11-24 17:35:05,730 signals User teacher_user registered.
+INFO 2024-11-24 17:35:05,878 signals User teacher_user logged in.
+INFO 2024-11-24 17:35:06,046 signals User admin registered.
+INFO 2024-11-24 17:35:06,196 signals User student_user registered.
+INFO 2024-11-24 17:35:06,341 signals User teacher_user registered.
+INFO 2024-11-24 17:35:06,488 signals User teacher_user logged in.
+INFO 2024-11-24 17:46:34,267 signals User admin registered.
+INFO 2024-11-24 17:46:34,413 signals User student_user registered.
+INFO 2024-11-24 17:46:34,557 signals User teacher_user registered.
+INFO 2024-11-24 17:46:34,717 signals User teacher_user logged in.
+INFO 2024-11-24 17:46:34,876 signals User admin registered.
+INFO 2024-11-24 17:46:35,020 signals User student_user registered.
+INFO 2024-11-24 17:46:35,172 signals User teacher_user registered.
+INFO 2024-11-24 17:46:35,318 signals User teacher_user logged in.
+INFO 2024-11-24 17:46:35,463 signals User admin registered.
+INFO 2024-11-24 17:46:35,605 signals User student_user registered.
+INFO 2024-11-24 17:46:35,756 signals User teacher_user registered.
+INFO 2024-11-24 17:46:35,905 signals User teacher_user logged in.
+INFO 2024-11-24 17:46:36,077 signals User admin registered.
+INFO 2024-11-24 17:46:36,224 signals User student_user registered.
+INFO 2024-11-24 17:46:36,369 signals User teacher_user registered.
+INFO 2024-11-24 17:46:36,513 signals User teacher_user logged in.
+INFO 2024-11-24 17:46:52,139 signals User admin registered.
+INFO 2024-11-24 17:46:52,288 signals User student_user registered.
+INFO 2024-11-24 17:46:52,432 signals User teacher_user registered.
+INFO 2024-11-24 17:46:52,583 signals User teacher_user logged in.
+INFO 2024-11-24 17:46:52,745 signals User admin registered.
+INFO 2024-11-24 17:46:52,898 signals User student_user registered.
+INFO 2024-11-24 17:46:53,048 signals User teacher_user registered.
+INFO 2024-11-24 17:46:53,197 signals User teacher_user logged in.
+INFO 2024-11-24 17:46:53,350 signals User teacher_user logged in.
+INFO 2024-11-24 17:46:53,496 signals User admin registered.
+INFO 2024-11-24 17:46:53,642 signals User student_user registered.
+INFO 2024-11-24 17:46:53,787 signals User teacher_user registered.
+INFO 2024-11-24 17:46:53,933 signals User teacher_user logged in.
+INFO 2024-11-24 17:46:54,107 signals User admin registered.
+INFO 2024-11-24 17:46:54,252 signals User student_user registered.
+INFO 2024-11-24 17:46:54,397 signals User teacher_user registered.
+INFO 2024-11-24 17:46:54,544 signals User teacher_user logged in.
+INFO 2024-11-24 17:48:30,012 signals User admin registered.
+INFO 2024-11-24 17:48:30,165 signals User student_user registered.
+INFO 2024-11-24 17:48:30,313 signals User teacher_user registered.
+INFO 2024-11-24 17:48:30,464 signals User teacher_user logged in.
+INFO 2024-11-24 17:48:30,627 signals User admin registered.
+INFO 2024-11-24 17:48:30,773 signals User student_user registered.
+INFO 2024-11-24 17:48:30,918 signals User teacher_user registered.
+INFO 2024-11-24 17:48:31,065 signals User teacher_user logged in.
+INFO 2024-11-24 17:48:31,211 signals User teacher_user logged in.
+INFO 2024-11-24 17:48:31,361 signals User admin registered.
+INFO 2024-11-24 17:48:31,508 signals User student_user registered.
+INFO 2024-11-24 17:48:31,651 signals User teacher_user registered.
+INFO 2024-11-24 17:48:31,797 signals User teacher_user logged in.
+INFO 2024-11-24 17:48:31,965 signals User admin registered.
+INFO 2024-11-24 17:48:32,109 signals User student_user registered.
+INFO 2024-11-24 17:48:32,260 signals User teacher_user registered.
+INFO 2024-11-24 17:48:32,415 signals User teacher_user logged in.
+INFO 2024-11-24 17:50:29,608 signals User admin registered.
+INFO 2024-11-24 17:50:29,754 signals User student_user registered.
+INFO 2024-11-24 17:50:29,896 signals User teacher_user registered.
+INFO 2024-11-24 17:50:30,050 signals User teacher_user logged in.
+INFO 2024-11-24 17:50:30,207 signals User admin registered.
+INFO 2024-11-24 17:50:30,350 signals User student_user registered.
+INFO 2024-11-24 17:50:30,494 signals User teacher_user registered.
+INFO 2024-11-24 17:50:30,640 signals User teacher_user logged in.
+INFO 2024-11-24 17:50:30,787 signals User teacher_user logged in.
+INFO 2024-11-24 17:50:30,932 signals User admin registered.
+INFO 2024-11-24 17:50:31,077 signals User student_user registered.
+INFO 2024-11-24 17:50:31,220 signals User teacher_user registered.
+INFO 2024-11-24 17:50:31,368 signals User teacher_user logged in.
+INFO 2024-11-24 17:50:31,532 signals User teacher_user logged in.
+INFO 2024-11-24 17:50:31,680 signals User admin registered.
+INFO 2024-11-24 17:50:31,825 signals User student_user registered.
+INFO 2024-11-24 17:50:31,970 signals User teacher_user registered.
+INFO 2024-11-24 17:50:32,113 signals User teacher_user logged in.
+INFO 2024-11-24 17:51:10,137 signals User admin registered.
+INFO 2024-11-24 17:51:10,284 signals User student_user registered.
+INFO 2024-11-24 17:51:10,432 signals User teacher_user registered.
+INFO 2024-11-24 17:51:10,586 signals User teacher_user logged in.
+INFO 2024-11-24 17:51:10,755 signals User admin registered.
+INFO 2024-11-24 17:51:10,898 signals User student_user registered.
+INFO 2024-11-24 17:51:11,044 signals User teacher_user registered.
+INFO 2024-11-24 17:51:11,192 signals User teacher_user logged in.
+INFO 2024-11-24 17:51:11,338 signals User teacher_user logged in.
+INFO 2024-11-24 17:51:11,484 signals User admin registered.
+INFO 2024-11-24 17:51:11,630 signals User student_user registered.
+INFO 2024-11-24 17:51:11,778 signals User teacher_user registered.
+INFO 2024-11-24 17:51:11,925 signals User teacher_user logged in.
+INFO 2024-11-24 17:51:12,093 signals User teacher_user logged in.
+INFO 2024-11-24 17:51:12,255 signals User admin registered.
+INFO 2024-11-24 17:51:12,403 signals User student_user registered.
+INFO 2024-11-24 17:51:12,547 signals User teacher_user registered.
+INFO 2024-11-24 17:51:12,696 signals User teacher_user logged in.
+INFO 2024-11-24 17:52:07,128 signals User admin registered.
+INFO 2024-11-24 17:52:07,274 signals User student_user registered.
+INFO 2024-11-24 17:52:07,418 signals User teacher_user registered.
+INFO 2024-11-24 17:52:07,576 signals User teacher_user logged in.
+INFO 2024-11-24 17:52:07,732 signals User admin registered.
+INFO 2024-11-24 17:52:07,874 signals User student_user registered.
+INFO 2024-11-24 17:52:08,016 signals User teacher_user registered.
+INFO 2024-11-24 17:52:08,161 signals User teacher_user logged in.
+INFO 2024-11-24 17:52:08,303 signals User teacher_user logged in.
+INFO 2024-11-24 17:52:08,449 signals User admin registered.
+INFO 2024-11-24 17:52:08,594 signals User student_user registered.
+INFO 2024-11-24 17:52:08,740 signals User teacher_user registered.
+INFO 2024-11-24 17:52:08,893 signals User teacher_user logged in.
+INFO 2024-11-24 17:52:09,066 signals User admin registered.
+INFO 2024-11-24 17:52:09,222 signals User student_user registered.
+INFO 2024-11-24 17:52:09,372 signals User teacher_user registered.
+INFO 2024-11-24 17:52:09,525 signals User teacher_user logged in.
+INFO 2024-11-24 17:55:06,762 signals User admin registered.
+INFO 2024-11-24 17:55:06,909 signals User student_user registered.
+INFO 2024-11-24 17:55:07,061 signals User teacher_user registered.
+INFO 2024-11-24 17:55:07,210 signals User teacher_user logged in.
+INFO 2024-11-24 17:55:07,370 signals User admin registered.
+INFO 2024-11-24 17:55:07,518 signals User student_user registered.
+INFO 2024-11-24 17:55:07,661 signals User teacher_user registered.
+INFO 2024-11-24 17:55:07,807 signals User teacher_user logged in.
+INFO 2024-11-24 17:55:07,950 signals User teacher_user logged in.
+INFO 2024-11-24 17:55:08,095 signals User admin registered.
+INFO 2024-11-24 17:55:08,243 signals User student_user registered.
+INFO 2024-11-24 17:55:08,390 signals User teacher_user registered.
+INFO 2024-11-24 17:55:08,533 signals User teacher_user logged in.
+INFO 2024-11-24 17:55:08,698 signals User admin registered.
+INFO 2024-11-24 17:55:08,842 signals User student_user registered.
+INFO 2024-11-24 17:55:08,985 signals User teacher_user registered.
+INFO 2024-11-24 17:55:09,129 signals User teacher_user logged in.
+INFO 2024-11-24 17:56:11,975 signals User admin registered.
+INFO 2024-11-24 17:56:12,127 signals User student_user registered.
+INFO 2024-11-24 17:56:12,292 signals User teacher_user registered.
+INFO 2024-11-24 17:56:12,472 signals User teacher_user logged in.
+INFO 2024-11-24 17:56:12,639 signals User admin registered.
+INFO 2024-11-24 17:56:12,787 signals User student_user registered.
+INFO 2024-11-24 17:56:12,938 signals User teacher_user registered.
+INFO 2024-11-24 17:56:13,090 signals User teacher_user logged in.
+INFO 2024-11-24 17:56:13,236 signals User teacher_user logged in.
+INFO 2024-11-24 17:56:13,389 signals User admin registered.
+INFO 2024-11-24 17:56:13,541 signals User student_user registered.
+INFO 2024-11-24 17:56:13,690 signals User teacher_user registered.
+INFO 2024-11-24 17:56:13,850 signals User teacher_user logged in.
+INFO 2024-11-24 17:56:14,057 signals User admin registered.
+INFO 2024-11-24 17:56:14,208 signals User student_user registered.
+INFO 2024-11-24 17:56:14,355 signals User teacher_user registered.
+INFO 2024-11-24 17:56:14,514 signals User teacher_user logged in.
+INFO 2024-11-24 17:56:48,152 signals User admin registered.
+INFO 2024-11-24 17:56:48,303 signals User student_user registered.
+INFO 2024-11-24 17:56:48,453 signals User teacher_user registered.
+INFO 2024-11-24 17:56:48,610 signals User teacher_user logged in.
+INFO 2024-11-24 17:56:48,788 signals User admin registered.
+INFO 2024-11-24 17:56:48,943 signals User student_user registered.
+INFO 2024-11-24 17:56:49,103 signals User teacher_user registered.
+INFO 2024-11-24 17:56:49,253 signals User teacher_user logged in.
+INFO 2024-11-24 17:56:49,400 signals User teacher_user logged in.
+INFO 2024-11-24 17:56:49,551 signals User admin registered.
+INFO 2024-11-24 17:56:49,703 signals User student_user registered.
+INFO 2024-11-24 17:56:49,857 signals User teacher_user registered.
+INFO 2024-11-24 17:56:50,024 signals User teacher_user logged in.
+INFO 2024-11-24 17:56:50,211 signals User admin registered.
+INFO 2024-11-24 17:56:50,370 signals User student_user registered.
+INFO 2024-11-24 17:56:50,523 signals User teacher_user registered.
+INFO 2024-11-24 17:56:50,673 signals User teacher_user logged in.
+INFO 2024-11-24 17:58:07,048 signals User admin registered.
+INFO 2024-11-24 17:58:07,195 signals User student_user registered.
+INFO 2024-11-24 17:58:07,338 signals User teacher_user registered.
+INFO 2024-11-24 17:58:07,491 signals User teacher_user logged in.
+INFO 2024-11-24 17:58:07,648 signals User admin registered.
+INFO 2024-11-24 17:58:07,795 signals User student_user registered.
+INFO 2024-11-24 17:58:07,940 signals User teacher_user registered.
+INFO 2024-11-24 17:58:08,090 signals User teacher_user logged in.
+INFO 2024-11-24 17:58:08,238 signals User teacher_user logged in.
+INFO 2024-11-24 17:58:08,386 signals User admin registered.
+INFO 2024-11-24 17:58:08,531 signals User student_user registered.
+INFO 2024-11-24 17:58:08,676 signals User teacher_user registered.
+INFO 2024-11-24 17:58:08,822 signals User teacher_user logged in.
+INFO 2024-11-24 17:58:09,007 signals User admin registered.
+INFO 2024-11-24 17:58:09,156 signals User student_user registered.
+INFO 2024-11-24 17:58:09,304 signals User teacher_user registered.
+INFO 2024-11-24 17:58:09,462 signals User teacher_user logged in.
+INFO 2024-11-24 17:58:34,395 signals User admin registered.
+INFO 2024-11-24 17:58:34,543 signals User student_user registered.
+INFO 2024-11-24 17:58:34,692 signals User teacher_user registered.
+INFO 2024-11-24 17:58:34,844 signals User teacher_user logged in.
+INFO 2024-11-24 17:58:35,006 signals User admin registered.
+INFO 2024-11-24 17:58:35,154 signals User student_user registered.
+INFO 2024-11-24 17:58:35,296 signals User teacher_user registered.
+INFO 2024-11-24 17:58:35,442 signals User teacher_user logged in.
+INFO 2024-11-24 17:58:35,586 signals User teacher_user logged in.
+INFO 2024-11-24 17:58:35,731 signals User admin registered.
+INFO 2024-11-24 17:58:35,876 signals User student_user registered.
+INFO 2024-11-24 17:58:36,022 signals User teacher_user registered.
+INFO 2024-11-24 17:58:36,171 signals User teacher_user logged in.
+INFO 2024-11-24 17:59:22,032 signals User admin registered.
+INFO 2024-11-24 17:59:22,181 signals User student_user registered.
+INFO 2024-11-24 17:59:22,328 signals User teacher_user registered.
+INFO 2024-11-24 17:59:22,480 signals User teacher_user logged in.
+INFO 2024-11-24 17:59:22,633 signals User admin registered.
+INFO 2024-11-24 17:59:22,791 signals User student_user registered.
+INFO 2024-11-24 17:59:22,935 signals User teacher_user registered.
+INFO 2024-11-24 17:59:23,081 signals User teacher_user logged in.
+INFO 2024-11-24 17:59:23,231 signals User teacher_user logged in.
+INFO 2024-11-24 17:59:23,374 signals User admin registered.
+INFO 2024-11-24 17:59:23,518 signals User student_user registered.
+INFO 2024-11-24 17:59:23,662 signals User teacher_user registered.
+INFO 2024-11-24 17:59:23,806 signals User teacher_user logged in.
+INFO 2024-11-24 17:59:23,971 signals User admin registered.
+INFO 2024-11-24 17:59:24,114 signals User student_user registered.
+INFO 2024-11-24 17:59:24,257 signals User teacher_user registered.
+INFO 2024-11-24 17:59:24,401 signals User teacher_user logged in.
+INFO 2024-11-24 18:01:07,062 signals User admin registered.
+INFO 2024-11-24 18:01:07,207 signals User student_user registered.
+INFO 2024-11-24 18:01:07,352 signals User teacher_user registered.
+INFO 2024-11-24 18:01:07,501 signals User teacher_user logged in.
+INFO 2024-11-24 18:01:07,659 signals User admin registered.
+INFO 2024-11-24 18:01:07,803 signals User student_user registered.
+INFO 2024-11-24 18:01:07,948 signals User teacher_user registered.
+INFO 2024-11-24 18:01:08,096 signals User teacher_user logged in.
+INFO 2024-11-24 18:01:08,242 signals User teacher_user logged in.
+INFO 2024-11-24 18:01:08,390 signals User admin registered.
+INFO 2024-11-24 18:01:08,534 signals User student_user registered.
+INFO 2024-11-24 18:01:08,677 signals User teacher_user registered.
+INFO 2024-11-24 18:01:08,828 signals User teacher_user logged in.
+INFO 2024-11-24 18:01:13,846 signals User admin registered.
+INFO 2024-11-24 18:01:13,999 signals User student_user registered.
+INFO 2024-11-24 18:01:14,197 signals User admin registered.
+INFO 2024-11-24 18:01:14,288 tasks Welcome email sent to user@example.com
+INFO 2024-11-24 18:01:14,343 signals User student_user registered.
+INFO 2024-11-24 18:01:14,346 tasks Welcome email sent to user@example.com
+INFO 2024-11-24 18:01:14,490 signals User student_user registered.
+INFO 2024-11-24 18:01:14,494 tasks Welcome email sent to user@example.com
+INFO 2024-11-24 18:01:14,640 signals User student_user registered.
+INFO 2024-11-24 18:01:14,645 tasks Welcome email sent to user@example.com
+INFO 2024-11-24 18:01:24,513 signals User admin registered.
+INFO 2024-11-24 18:01:24,658 signals User student_user registered.
+INFO 2024-11-24 18:01:24,686 tasks Welcome email sent to user@example.com
+INFO 2024-11-24 18:01:24,847 signals User admin logged in.
+INFO 2024-11-24 18:01:24,996 signals User admin registered.
+INFO 2024-11-24 18:01:25,140 signals User student_user registered.
+INFO 2024-11-24 18:01:25,144 tasks Welcome email sent to user@example.com
+INFO 2024-11-24 18:01:25,287 signals User admin logged in.
+INFO 2024-11-24 18:01:25,436 signals User student_user registered.
+INFO 2024-11-24 18:01:25,441 tasks Welcome email sent to user@example.com
+INFO 2024-11-24 18:01:25,585 signals User student_user registered.
+INFO 2024-11-24 18:01:25,588 tasks Welcome email sent to user@example.com
+INFO 2024-11-24 18:01:35,527 signals User admin registered.
+INFO 2024-11-24 18:01:35,670 signals User student_user registered.
+INFO 2024-11-24 18:01:35,707 tasks Welcome email sent to user@example.com
+INFO 2024-11-24 18:01:35,857 signals User admin logged in.
+INFO 2024-11-24 18:01:36,010 signals User admin registered.
+INFO 2024-11-24 18:01:36,155 signals User student_user registered.
+INFO 2024-11-24 18:01:36,159 tasks Welcome email sent to user@example.com
+INFO 2024-11-24 18:01:36,306 signals User admin logged in.
+INFO 2024-11-24 18:01:36,456 signals User student_user registered.
+INFO 2024-11-24 18:01:36,459 tasks Welcome email sent to user@example.com
+INFO 2024-11-24 18:01:36,610 signals User student_user registered.
+INFO 2024-11-24 18:01:36,613 tasks Welcome email sent to user@example.com

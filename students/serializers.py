@@ -10,7 +10,7 @@ class StudentSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Student
-        fields = ['id', 'user_id' ,'user', 'dob', 'registration_date']
+        fields = ['id', 'name', 'student_id','user_id' ,'user', 'dob', 'registration_date']
 
     def validate_user_id(self, value):
         try:
@@ -30,5 +30,5 @@ class StudentSerializer(serializers.ModelSerializer):
         return student
 
     def update(self, instance, validated_data):
-        validated_data.pop('user_id', None)  # Don't allow changing user_id on update
+        validated_data.pop('user_id', None)  #
         return super().update(instance, validated_data)

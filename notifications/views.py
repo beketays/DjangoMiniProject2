@@ -1,4 +1,4 @@
-from rest_framework import viewsets
+from rest_framework import viewsets, permissions
 
-class NotificationsViewSet(viewsets.ModelViewSet):
+class NotificationViewSet(viewsets.ModelViewSet):
     pass

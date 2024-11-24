@@ -7,7 +7,7 @@ from django.core.cache import cache
 from rest_framework.response import Response
 from students.models import Student
 from students.serializers import StudentSerializer
-from users.permissions import IsStudent, IsAdmin, IsTeacher
+from users.permissions import IsStudent, IsAdmin, IsTeacher, IsAdminOrTeacher
 
 logger = logging.getLogger("students")
 
@@ -17,19 +17,20 @@ class StudentViewSet(viewsets.ModelViewSet):
     serializer_class = StudentSerializer
     filter_backends = [DjangoFilterBackend, filters.SearchFilter, filters.OrderingFilter]
     filterset_fields = ['registration_date']
-    ordering_fields = ['user__username', 'registration_date', 'dob']
-    ordering = ['registration_date']
+    ordering_fields = ['name', 'registration_date', 'dob']
+    ordering = ['name']
 
     def get_permissions(self):
         if self.action in ['retrieve', 'update', 'partial_update']:
-            permission_classes = [IsAuthenticated(), IsStudent() or IsAdmin()]
+            permission_classes = [IsAuthenticated & IsStudent | IsAdmin]
         elif self.action in ['create', 'destroy']:
-            permission_classes = [IsAuthenticated(), IsAdmin()]
+            permission_classes = [IsAuthenticated & IsAdmin]
         elif self.action in ['list']:
-            permission_classes = [IsAuthenticated(), IsTeacher() or IsAdmin()]
+            permission_classes = [IsAuthenticated & IsAdminOrTeacher]
         else:
-            permission_classes = [IsAuthenticated()]
-        return [permission for permission in permission_classes]
+            permission_classes = [IsAuthenticated]
+        return [permission() for permission in permission_classes]
+
 
     def get_queryset(self):
         user = self.request.user

@@ -1,10 +1,6 @@
 from celery import shared_task
 from django.core.mail import send_mail
 from django.conf import settings
-from django.utils.timezone import now
-from attendance.models import Attendance
-from grades.models import Grade
-from students.models import Student
 from users.models import User
 
 @shared_task
