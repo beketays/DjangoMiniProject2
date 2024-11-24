@@ -12,6 +12,8 @@ https://docs.djangoproject.com/en/5.1/ref/settings/
 
 from pathlib import Path
 
+from celery.schedules import crontab
+
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -39,6 +41,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     # lib apps
+    'django_filters',
     'rest_framework',
     'rest_framework.authtoken',
     'djoser',
@@ -46,6 +49,12 @@ INSTALLED_APPS = [
 
     # my apps
     'users',
+    'students',
+    'courses',
+    'grades',
+    'attendance',
+    'notifications',
+
 ]
 
 MIDDLEWARE = [
@@ -142,6 +151,11 @@ REST_FRAMEWORK = {
         'rest_framework.permissions.IsAuthenticated',
     ],
     'DEFAULT_SCHEMA_CLASS': 'drf_spectacular.openapi.AutoSchema',
+    'DEFAULT_FILTER_BACKENDS': ['django_filters.rest_framework.DjangoFilterBackend'],
+
+
+    'PAGE_SIZE': 10,
+    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',
 }
 
 DJOSER = {
@@ -170,3 +184,112 @@ SPECTACULAR_SETTINGS = {
         }
     ],
 }
+
+
+LOGGING = {
+    'version': 1,
+    'disable_existing_loggers': False,
+    'formatters': {
+        'verbose': {  # Define the verbose formatter here
+            'format': '{levelname} {asctime} {module} {message}',
+            'style': '{',
+        },
+    },
+    'handlers': {
+        'file_grades': {
+            'level': 'INFO',
+            'class': 'logging.FileHandler',
+            'filename': 'logs/grades.log',
+            'formatter': 'verbose',
+            'encoding': 'utf-8',
+        },
+        'file_attendance': {
+            'level': 'INFO',
+            'class': 'logging.FileHandler',
+            'filename': 'logs/attendance.log',
+            'formatter': 'verbose',
+            'encoding': 'utf-8',
+        },
+        'file_courses': {
+            'level': 'INFO',
+            'class': 'logging.FileHandler',
+            'filename': 'logs/courses.log',
+            'formatter': 'verbose',
+            'encoding': 'utf-8',
+        },
+        'file_students': {
+            'level': 'INFO',
+            'class': 'logging.FileHandler',
+            'filename': 'logs/students.log',
+            'formatter': 'verbose',
+            'encoding': 'utf-8',
+        },
+        'file_users': {
+            'level': 'INFO',
+            'class': 'logging.FileHandler',
+            'filename': 'logs/users.log',
+            'formatter': 'verbose',
+            'encoding': 'utf-8',
+        },
+    },
+'loggers': {
+        'grades': {
+            'handlers': ['file_grades'],
+            'level': 'INFO',
+            'propagate': False,
+        },
+        'attendance': {
+            'handlers': ['file_attendance'],
+            'level': 'INFO',
+            'propagate': False,
+        },
+        'courses': {
+            'handlers': ['file_courses'],
+            'level': 'INFO',
+            'propagate': False,
+        },
+        'students': {
+            'handlers': ['file_students'],
+            'level': 'INFO',
+            'propagate': False,
+        },
+        'users': {
+            'handlers': ['file_users'],
+            'level': 'INFO',
+            'propagate': False,
+        },
+    },
+}
+
+CACHES = {
+    'default': {
+        'BACKEND': 'django_redis.cache.RedisCache',
+        'LOCATION': 'redis://localhost:6379/1',
+        'OPTIONS': {
+            'CLIENT_CLASS': 'django_redis.client.DefaultClient',
+        },
+        'TIMEOUT': 300,
+    }
+}
+
+CELERY_BROKER_URL = 'redis://localhost:6379/0'
+CELERY_RESULT_BACKEND = 'redis://localhost:6379/0'
+CELERY_ACCEPT_CONTENT = ['json']
+CELERY_TASK_SERIALIZER = 'json'
+CELERY_RESULT_SERIALIZER = 'json'
+CELERY_BEAT_SCHEDULE = {
+    'send-daily-attendance-reminders': {
+        'task': 'notifications.tasks.send_daily_attendance_reminders',
+        'schedule': crontab(hour=0, minute=59),
+    },
+    'send-daily-report': {
+        'task': 'notifications.tasks.send_daily_report',
+        'schedule': crontab(hour=8, minute=0),
+    },
+    'send-weekly-student-updates': {
+        'task': 'notifications.tasks.send_weekly_student_updates',
+        'schedule': crontab(day_of_week='sunday', hour=9, minute=0),
+    },
+
+}
+
